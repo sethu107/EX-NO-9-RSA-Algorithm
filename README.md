@@ -142,8 +142,6 @@ int main() {
 }
 ```
 ## Output:
-
-
-
+![Screenshot 2024-11-11 092437](https://github.com/user-attachments/assets/9b1b3302-9270-4bb5-ba09-6adae8b762ef)
 ## Result:
  The program is executed successfully.
